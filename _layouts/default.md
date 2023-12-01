@@ -20,7 +20,7 @@
     />
     <meta property="og:locale" content="{{ site.locale }}" />
     <meta property="og:site_name" content="{{ site.site_name }}" />
-    <link href="/assets/main.css" rel="stylesheet"/>
+    <link href="{{ site.baseurl }}/assets/main.css" rel="stylesheet"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
@@ -28,8 +28,8 @@
   </head>
   <body>
       <nav class="">
-        <a href="/" class="">Home</a>
-        <a href="/#jobs" class="">Jobs</a>
+        <a href="{{ site.baseurl }}/" class="">Home</a>
+        <a href="{{ site.baseurl }}/#jobs" class="">Jobs</a>
   </nav>
 
 <main class="">

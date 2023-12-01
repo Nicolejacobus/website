@@ -23,6 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 {% for job in site.jobs %}
 <h3>{{job.title}}</h3>
-<a href="{{ job.url }}">{{job.description}}</a>
+<a href="{{ site.baseurl }}{{ job.url }}">{{job.description}}</a>
 {% endfor %}
 </div>
