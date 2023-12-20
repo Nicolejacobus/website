@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 
 
-<a href="{{site.email}}">Get in touch!</a>
+<a href="mailto:yourEMAILhere">Get in touch!</a>
 
 <div class="index-jobs">
 <h2 id="jobs">Jobs</h2>
