@@ -10,9 +10,11 @@ layout: home
 
 I'm a Creative Producer and enthusiasm enthusiast based in London. 
 
-My current work projects are as a Production Manager for <a href="https://entourage.live/" target="_blank">Entourage</a>, Producer for <a href="https://www.youtube.com/@standupmaths" target="_blank">Stand Up Maths</a>, Project Manager for the <a href="https://immersiveexperience.network/" target="_blank">Immersive Experience Network</a> and Science in Schools Presenter for the <a href="https://www.rigb.org/learning/science-shows-your-school" target="_blank">Royal Institution</a>.
+I primarily work as a project/production manager and producer in live events and immersive experiences, as well as for YouTube channels. I also perform, produce prints, and communicate science by commission and on a freelance basis.
 
-I also perform, produce prints, stage manage and communicate science by commission and on a freelance basis.
+I completed a First Class MPhys in Physics at the University of Oxford in 2020, specialising in Condensed Matter Physics, and worked as a Structurer in Citi's Markets division before moving into creative production in March 2022.
+
+Outside of work, you can find me training aerial silks, volunteering with Jewish community organisations, or teaching myself the accordion.
 
 <a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
 
