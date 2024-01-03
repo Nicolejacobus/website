@@ -19,7 +19,7 @@ Outside of work, you can find me training aerial silks, volunteering with Jewish
 <div class="index-current work">
 <h2 id="current work">Current Projects</h2>
 
-{% for job in site.current work %}
+{% for work in site.work %}
 <h3>{{work.title}}</h3>
 <a href="{{ site.baseurl }}{{ work.url }}">{{work.description}}</a>
 {% endfor %}
