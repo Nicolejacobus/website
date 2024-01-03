@@ -8,11 +8,9 @@ layout: home
 # Nicole Jacobus
 
 
-I'm a Creative Producer and enthusiasm enthusiast based in London. 
+I’m a Creative Producer and enthusiasm enthusiast based in London.
 
 I primarily work as a project/production manager and producer in live events and immersive experiences, as well as for YouTube channels. I also perform, produce prints, and communicate science by commission and on a freelance basis.
-
-I completed a First Class MPhys in Physics at the University of Oxford in 2020, specialising in Condensed Matter Physics, and worked as a Structurer in Citi's Markets division before moving into creative production in March 2022.
 
 Outside of work, you can find me training aerial silks, volunteering with Jewish community organisations, or teaching myself the accordion.
 
