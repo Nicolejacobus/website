@@ -6,8 +6,9 @@ layout: home
 ---
 
 # Nicole Jacobus
-This is a line of test text
-Add text here using **Markdown**. Use asterisks for italics, etc (google it)
+
+
+I'm a producer, project manager, and science communicator based in London. I work part-time for [Entourage](https://entourage.live/)
 
 *Text intro, some photos, summary of what I do and
 where I learned to do it*
