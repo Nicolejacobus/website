@@ -8,19 +8,16 @@ layout: home
 # Nicole Jacobus
 
 
-I'm a producer, project manager, and science communicator based in London. I work part-time for [Entourage](https://entourage.live/)
+I'm a Creative Producer and enthusiasm enthusiast based in London. 
 
-*Text intro, some photos, summary of what I do and
-where I learned to do it*
+My current work projects are as a Production Manager for <a href="https://entourage.live/" target="_blank">Entourage</a>, Producer for <a href="https://www.youtube.com/@standupmaths" target="_blank">Stand Up Maths</a>, Project Manager for the <a href="https://immersiveexperience.network/" target="_blank">Immersive Experience Network</a> and Science in Schools Presenter for the <a href="https://www.rigb.org/learning/science-shows-your-school" target="_blank">Royal Institution</a>.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I also perform, produce prints, stage manage and communicate science by commission and on a freelance basis.
 
-
-
-<a href="mailto:yourEMAILhere">Get in touch!</a>
+<a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
 
 <div class="index-jobs">
-<h2 id="jobs">Jobs</h2>
+<h2 id="jobs">Current Projects</h2>
 
 {% for job in site.jobs %}
 <h3>{{job.title}}</h3>
