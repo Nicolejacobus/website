@@ -17,9 +17,9 @@ Outside of work, you can find me training aerial silks, volunteering with Jewish
 <a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
 
 <div class="index-work">
-<h2 id="current work">Current Projects</h2>
+<h2 id="current-work">Current Work</h2>
 
-{% for work in site.current work %}
+{% for work in site.work %}
 <h3>{{work.title}}</h3>
 <a href="{{ site.baseurl }}{{ work.url }}">{{work.description}}</a>
 {% endfor %}
