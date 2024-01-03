@@ -1,8 +1,8 @@
 ---
 title: Immersive sector advocate
 description: Blah blah blah I do stupid shit with fire
-layout: job
-permalink: /jobs/immersive-sector/
+layout: work
+permalink: /current-work/immersive-sector/
 ---
 
 Summary incl hyperlinks to relevant websites

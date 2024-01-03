@@ -1,8 +1,8 @@
 ---
 title: Production & Project Management
 description: lorem ipsum dolor sit amet
-layout: job
-permalink: /jobs/production-and-project-management/
+layout: work
+permalink: /current-work/production-and-project-management/
 ---
 
 Summary incl hyperlinks to relevant websites

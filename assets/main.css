@@ -56,11 +56,11 @@ main {
     }
 }
 
-.index-jobs a {
+.index-work a {
     text-decoration: solid underline .2em rgba(150,150,150,0.3);
     color: inherit;
 }
-.index-jobs a:hover {
+.index-work a:hover {
     text-decoration: solid underline .2em rgba(150,150,150,0.6);
     background-color: #FFEB3B;
 }
