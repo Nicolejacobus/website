@@ -1,6 +1,6 @@
 ---
 title: Immersive sector advocate
-description: Creating a new network and industry standard for the UK Live Immersive sector
+description: Blah blah blah I do stupid shit with fire
 layout: job
 permalink: /jobs/immersive-sector/
 ---

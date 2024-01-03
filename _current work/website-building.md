@@ -1,6 +1,6 @@
 ---
-title: Performance
-description: I perform in cabaret and drag revues
+title: Websites
+description: With my friend Ben I make websites
 layout: job
 permalink: /jobs/website-building/
 ---
