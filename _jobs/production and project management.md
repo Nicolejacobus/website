@@ -1,11 +1,11 @@
 ---
 title: Production & Project Management
-description: lorem ipsum dolor sit amet
+description: I manage logistics and creative strategy for live immersive events and YouTube.
 layout: job
 permalink: /jobs/production-and-project-management/
 ---
 
-Summary incl hyperlinks to relevant websites
+I have been working as a Production Manager for <a href="https://entourage.live/" target="_blank">Entourage</a> since April 2022. Entourage is a production company specialising in live immersive experiences, brand campaigns, and venue transformations.
 
 Some photos
 

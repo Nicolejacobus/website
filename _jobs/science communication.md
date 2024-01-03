@@ -1,6 +1,6 @@
 ---
 title: Science communication
-description: Blah blah blah I do stupid shit with fire
+description: Freelance science communication in schools and at national events
 layout: job
 permalink: /jobs/science-communication/
 ---
