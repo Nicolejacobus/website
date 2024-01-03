@@ -19,8 +19,8 @@ Outside of work, you can find me training aerial silks, volunteering with Jewish
 <div class="index-work">
 <h2 id="current-work">Current Work</h2>
 
-{% for work in site.work %}
-<h3>{{work.title}}</h3>
+{% for current-work in site.work %}
+<h3>{{current-work.title}}</h3>
 <a href="{{ site.baseurl }}{{ work.url }}">{{work.description}}</a>
 {% endfor %}
 </div>
