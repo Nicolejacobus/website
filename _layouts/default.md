@@ -29,7 +29,7 @@
   <body>
       <nav class="">
         <a href="{{ site.baseurl }}/" class="">Home</a>
-        <a href="{{ site.baseurl }}/#jobs" class="">Jobs</a>
+        <a href="{{ site.baseurl }}/#current work" class="">Current Work</a>
   </nav>
 
 <main class="">
