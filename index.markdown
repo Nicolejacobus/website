@@ -7,6 +7,7 @@ layout: home
 
 # Nicole Jacobus
 
+Changes as of now 
 
 I’m a Creative Producer and enthusiasm enthusiast based in London.
 
@@ -19,8 +20,8 @@ Outside of work, you can find me training aerial silks, volunteering with Jewish
 <div class="index-work">
 <h2 id="current-work">Current Work</h2>
 
-{% for current-work in site.work %}
-<h3>{{current-work.title}}</h3>
+{% for work in site.current-work %}
+<h3>{{work.title}}</h3>
 <a href="{{ site.baseurl }}{{ work.url }}">{{work.description}}</a>
 {% endfor %}
 </div>
