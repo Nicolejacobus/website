@@ -1,0 +1,32 @@
+/* sidebyside.css */
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .image {
+    max-width: 17vw;
+    border: 1px solid #aaa;
+    padding: 3px;
+    margin-right: 20px;
+    vertical-align: middle; /* Vertically align the image to the middle */
+  }
+  
+  img {
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    height: auto;    /* Maintain the aspect ratio of the image */
+    display: block; /* Remove extra space below inline-block elements */
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .image {
+      max-width: 100%;
+      margin-bottom: 10px;
+    }
+  }

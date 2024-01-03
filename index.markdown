@@ -4,18 +4,28 @@
 
 layout: home
 ---
+ <h1>Nicole Jacobus</h1>
 
-# Nicole Jacobus
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/sidebyside.css">
 
-Changes as of now 
+<div class="container">
+  <div class="image">
+    <img src="{{site.baseurl}}/assets/images/headshot.jpg" alt="Nicole Jacobus">
+  </div>
 
-I’m a Creative Producer and enthusiasm enthusiast based in London.
+  <div class="text">
+      
 
-I primarily work as a project/production manager and producer in live events and immersive experiences, as well as for YouTube channels. I also perform, produce prints, and communicate science by commission and on a freelance basis.
+    I’m a Creative Producer and enthusiasm enthusiast based in London.<br><br>
 
-Outside of work, you can find me training aerial silks, volunteering with Jewish community organisations, or teaching myself the accordion.
+    I primarily work as a project/production manager and producer in live events and immersive experiences, as well as for YouTube channels. I also perform, produce prints, and communicate science by commission and on a freelance basis.<br><br>
+
+    Outside of work, you can find me training aerial silks, volunteering with Jewish community organisations, or teaching myself the accordion.<br><br>
 
 <a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
+  </div>
+</div>
+
 
 <div class="index-work">
 <h2 id="current-work">Current Work</h2>
