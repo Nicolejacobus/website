@@ -5,6 +5,7 @@
     text-align: center;                /* Center-align captions */
     margin: 20px auto;                 /* Add vertical space and center the container */
     max-width: 100%;                   /* Limit the container width to 100% of the page */
+    padding-top: 10px;
 }
 
 .threeimages .image-item {
