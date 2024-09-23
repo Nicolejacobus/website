@@ -6,6 +6,7 @@
     margin: 20px auto;                 /* Add vertical space and center the container */
     max-width: 100%;                   /* Limit the container width to 100% of the page */
     padding-top: 10px;
+    flex-wrap: wrap;  
 }
 
 .threeimages .image-item {
@@ -23,4 +24,13 @@
     margin-top: 5px;                  /* Closer to the image */
     margin-bottom: 0;                 /* Remove bottom margin */
     font-size: 0.9em;                  /* Adjust font size if needed */
+}
+
+/* Media Query for Narrow Screens (stack images) */
+@media (max-width: 768px) {
+    .threeimages .image-item {
+        flex: 1 1 100%;                 /* Force items to take full width */
+        max-width: 100%;                /* Ensure each item takes up 100% of the container */
+        margin: 10px 0;                 /* Add vertical spacing between stacked images */
+    }
 }

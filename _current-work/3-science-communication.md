@@ -1,6 +1,6 @@
 ---
 title: Science communication
-description: I bring science to life through talks and practical demonstrations for adults and children
+description: Bringing science to life through talks and practical demonstrations for adults and children
 layout: work
 permalink: /current-work/science-communication/
 ---
