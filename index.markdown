@@ -4,7 +4,7 @@
 
 layout: home
 ---
- <h1>Nicole Jacobus</h1>
+
 
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/sidebyside.css">
 
@@ -13,8 +13,10 @@ layout: home
     <img src="{{site.baseurl}}/assets/images/nicole-in-action.jpg" alt="Nicole Jacobus speaking at an event in February 2024">
   </div>
 
+
+
   <div class="text">
-      
+       <h1>Nicole Jacobus</h1>
 
     I’m a Creative Producer and enthusiasm enthusiast based in London.<br><br>
 
@@ -22,7 +24,7 @@ layout: home
 
     Outside of work, you can find me learning aerial silks, volunteering with community organisations, or solving cryptic crosswords.<br><br>
 
-<a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
+<a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or to get me involved in your projects. I'm always open to discussing new opportunities.
   </div>
 </div>
 

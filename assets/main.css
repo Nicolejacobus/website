@@ -23,10 +23,11 @@ a {
     color: inherit;
     text-decoration-color: inherit;
     text-decoration: solid underline .2em rgba(150,150,150,0.3);
+    transition: background-color 0.3s ease, text-decoration-color 0.3s ease; /* Add transition */
 }
 a:hover {
     text-decoration: solid underline .3em rgba(150,150,150,0.8);
-    background-color: #FFEB3B;
+    background-color: #f9b08f;
 }
 
 
@@ -41,11 +42,12 @@ nav a {
     text-decoration: none;
     font-size: xx-large;
     color: inherit;
+    transition: background-color 0.3s ease, text-decoration-color 0.3s ease; /* Add transition */
 }
 nav a:hover {
     text-decoration: solid underline .3em rgba(150,150,150,0.8);
     background-color: rgba(150,150,150,0.3);
-    background-color: #FFEB3B;
+    background-color: #f96e2e;
 }
 main {
     max-width: 90vw;
@@ -62,9 +64,10 @@ main {
 .index-work a {
     text-decoration: solid underline .2em rgba(150,150,150,0.3);
     color: inherit;
+    transition: background-color 0.3s ease, text-decoration-color 0.3s ease; /* Add transition */
 }
 .index-work a:hover {
     text-decoration: solid underline .2em rgba(150,150,150,0.6);
-    background-color: #FFEB3B;
+    background-color: #f9b08f;
 }
 
