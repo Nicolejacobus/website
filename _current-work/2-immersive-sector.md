@@ -5,7 +5,7 @@ layout: work
 permalink: /current-work/immersive-sector/
 ---
 
-Summary incl hyperlinks to relevant websites
+As a co-founder of the <a href="https://immersiveexperience.network/">Immersive Experience Network</a>, we are working to develop a collaborative hub for the immersive experience and entertainment sector, helping the industry reach its full potential in terms of commercial growth, access, and opportunities for creative cross-pollination.
 
 Some photos
 

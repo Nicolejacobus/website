@@ -1,6 +1,6 @@
 ---
 title: Performance and public speaking
-description: Confident in spaces from fundraising events to cabaret performance
+description: Presenting & performing in spaces from fundraising events to cabaret performance
 layout: work
 permalink: /current-work/performance/
 ---

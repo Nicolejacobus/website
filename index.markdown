@@ -8,7 +8,7 @@ layout: home
 
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/sidebyside.css">
 
-<div class="container">
+<div class="homepage-container">
   <div class="image">
     <img src="{{site.baseurl}}/assets/images/nicole-in-action.jpg" alt="Nicole Jacobus speaking at an event in February 2024">
   </div>

@@ -1,0 +1,25 @@
+.threeimages {
+    display: flex;                     /* Use flexbox for layout */
+    justify-content: center;           /* Center the images in the container */
+    align-items: flex-start;           /* Align items at the start */
+    text-align: center;                /* Center-align captions */
+    margin: 20px auto;                 /* Add vertical space and center the container */
+    max-width: 100%;                   /* Limit the container width to 100% of the page */
+}
+
+.threeimages .image-item {
+    flex: 1;                           /* Allow items to grow equally */
+    margin: 0 10px;                   /* Add horizontal spacing */
+    max-width: 33%;                    /* Ensure each image item does not exceed 30% */
+}
+
+.threeimages .image-item img {
+    width: 100%;                       /* Make images responsive */
+    height: auto;                      /* Maintain aspect ratio */
+}
+
+.threeimages .image-item p {
+    margin-top: 5px;                  /* Closer to the image */
+    margin-bottom: 0;                 /* Remove bottom margin */
+    font-size: 0.9em;                  /* Adjust font size if needed */
+}
