@@ -10,7 +10,7 @@ layout: home
 
 <div class="container">
   <div class="image">
-    <img src="{{site.baseurl}}/assets/images/headshot.jpg" alt="Nicole Jacobus">
+    <img src="{{site.baseurl}}/assets/images/nicole-in-action.jpg" alt="Nicole Jacobus speaking at an event in February 2024">
   </div>
 
   <div class="text">
@@ -20,7 +20,7 @@ layout: home
 
     I primarily work as a project/production manager and producer in live events and immersive experiences, as well as for YouTube. I also perform, create prints, and communicate science - by commission and on a freelance basis.<br><br>
 
-    Outside of work, you can find me learning aerial silks, volunteering with community organisations, or teaching myself the accordion.<br><br>
+    Outside of work, you can find me learning aerial silks, volunteering with community organisations, or solving cryptic crosswords.<br><br>
 
 <a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or get me involved in your projects. I'm always open to discussing new opportunities.
   </div>
