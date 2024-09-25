@@ -1,6 +1,6 @@
 ---
 title: Performance and public speaking
-description: Presenting & performing in spaces from fundraising events to cabaret performance
+description: Presenting & performing in spaces from fundraising events to cabarets
 layout: work
 permalink: /current-work/performance/
 ---

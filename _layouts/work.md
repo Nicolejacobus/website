@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: fadein
 ---
 
 <h1>{{ page.title }}</h1>
