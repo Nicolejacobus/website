@@ -4,11 +4,32 @@ description: Building collaborative networks for immersive professionals and pro
 layout: work
 permalink: /current-work/immersive-sector/
 ---
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/threeimages.css">
 
 As a co-founder of the <a href="https://immersiveexperience.network/">Immersive Experience Network</a>, we are working to develop a collaborative hub for the immersive experience and entertainment sector, helping the industry reach its full potential in terms of commercial growth, access, and opportunities for creative cross-pollination.
 
-We host regular "Huddle" events 
+My role comprises: co-ordinating and managing our series of live events, both our large-scale Summits and networking Huddles, supporting funding streams through producing high-quality grant applications and seeking opportunities for sponsorships, managing our digital presence, and producing academic and commercial research.
 
-Credits & credentials
+The IEN is constantly evolving and is always looking for new partnerships, sponsors, and industry professionals looking to join the network and share their experience. Please do <a href="mailto:contact@immersiveexperience.network">get in touch</a> if you're interested in finding out more.
 
-Relevant qualifications
+<div class="threeimages">
+    <div class="image-item">
+        <img src="{{ site.baseurl }}/assets/images/ien1-networking.jpg" alt="Photo of an IEN Networking Event" />
+        <p>Creating networking spaces at 'Huddle' events</p>
+    </div>
+    <div class="image-item">
+        <img src="{{ site.baseurl }}/assets/images/ien2-research.jpg" alt="Nicole with Dr Joanna Bucknall promoting IEN research" />
+        <p>Releasing new industry research including the <a href="https://www.youtube.com/watch?v=Yhs6afjaosg">ESRC-funded Creators Report</a></p>
+    </div>
+    <div class="image-item">
+        <img src="{{ site.baseurl }}/assets/images/ien3-conference.jpg" alt="Creators at a Huddle event in 2024" />
+        <p>Hosting knowledge-sharing sessions at larger annual Summits</p>
+    </div>
+</div>
+
+<h2>Credits and credentials</h2>
+
+<h4>Publications</h4>
+
+<b><a href="https://immersiveexperience.network/articles/immersive-audiences-report-2024/">Immersive Audiences Report 2024</a></b>, June 2024 - Commercial audience research looking at who the current and potential UK immersive audiences are, in partnership with Medea<br>
+<b><a href="https://immersiveexperience.network/articles/in-your-own-words-the-esrc-ien-research-report/">"In Your Own Words"</a></b>, June 2023 - Focusing on creator perspectives, in collaboration with Dr Joanna Bucknall and University of Birmingham and funded by ESRC and IAA
