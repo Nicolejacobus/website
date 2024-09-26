@@ -31,13 +31,18 @@ The IEN is constantly evolving and is always looking for new partnerships, spons
 
 <h4>Live Events</h4>
 
-<b><a href="https://immersiveexperience.network/articles/summit-2022-the-creative-future/">Live Immersive Experiences Summit</a></b> - Vaults Theatre, May 2022<br>
-<b><a href="https://immersiveexperience.network/articles/writing-for-immersive-experiences/">Writing* for Immersive</a></b> - Bridewell Theatre, February 2023<br>
-<b><a href="https://immersiveexperience.network/articles/networking-workshop-social/">Immersive Networking Workshop</a></b> - Alcotraz, April 2023<br>
-<b><a href="https://immersiveexperience.network/articles/discovering-your-audience-marketing-immersive-experiences/">Marketing Immersive</a></b> - Fourth Floor Studios, June 2023<br>
-<b><a href="https://immersiveexperience.network/articles/live-immersive-design-symposium/">Live Immersive Design Symposium</a></b> - Rich Mix, October 2023<br>
-<b><a href="https://immersiveexperience.network/articles/huddle-5/">2024 Huddle Series</a></b> - Temple of Art and Music, across 2024<br>
 <b><a href="https://immersiveexperience.network/huddle-events/live-immersive-experience-summit-24/">Live Immersive Experiences Summit</a></b> - Woolwich Works, Upcoming in October 2024<br>
+<b><a href="https://immersiveexperience.network/articles/huddle-5/">2024 Huddle Series</a></b> - Temple of Art and Music, across 2024<br>
+<b><a href="https://immersiveexperience.network/articles/live-immersive-design-symposium/">Live Immersive Design Symposium</a></b> - Rich Mix, October 2023<br>
+<b><a href="https://immersiveexperience.network/articles/discovering-your-audience-marketing-immersive-experiences/">Marketing Immersive</a></b> - Fourth Floor Studios, June 2023<br>
+<b><a href="https://immersiveexperience.network/articles/networking-workshop-social/">Immersive Networking Workshop</a></b> - Alcotraz, April 2023<br>
+<b><a href="https://immersiveexperience.network/articles/writing-for-immersive-experiences/">Writing* for Immersive</a></b> - Bridewell Theatre, February 2023<br>
+<b><a href="https://immersiveexperience.network/articles/summit-2022-the-creative-future/">Live Immersive Experiences Summit</a></b> - Vaults Theatre, May 2022<br>
+
+
+
+
+
 
 
 <h4>Publications</h4>
