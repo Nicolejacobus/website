@@ -1,0 +1,43 @@
+/* Flexbox-based Masonry Layout */
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;  /* Allows items to wrap to the next row */
+    gap: 10px; /* Space between grid items */
+    padding: 10px;
+    justify-content: flex-start; /* Align items to the start of the flex container */
+}
+
+/* Ensure each figure takes up a quarter of the available width */
+.image-grid > figure {
+    flex: 0 1 calc(25% - 20px); /* 4 columns with space for gap */
+    margin: 0; /* No additional margins */
+    display: flex; /* Use flex for the figure to center its contents */
+    flex-direction: column; /* Stack image and caption vertically */
+    align-items: center; /* Center align items horizontally within each figure */
+    box-sizing: border-box; /* Ensure padding is included in width */
+}
+
+/* Ensure images are responsive */
+.image-grid img {
+    width: auto; /* Make images take the full width of the grid column */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 300px; /* Set a max height for very tall images */
+    max-width: 100%;
+    margin: auto; /* Center the image in the figure */
+    display: block; /* Prevents inline space below images */
+}
+
+/* Center the captions below each image */
+.image-grid figcaption {
+    text-align: center;
+    margin-top: 8px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Mobile layout: 1 column on small screens */
+@media (max-width: 768px) {
+    .image-grid > figure {
+        flex: 1 1 100%; /* Full width for mobile devices */
+    }
+}

@@ -12,15 +12,15 @@ I have received professional training from the Royal Institution and mentorship 
 
 <div class="threeimages">
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/scicom1-bbf.jpg" alt="Nicole presenting at the Big Bang Fair" />
+        <img src="{{ site.baseurl }}/assets/images/scicom1-bbf.jpg" alt="Nicole presenting at the Big Bang Fair"/>
         <p>Presenting on behalf of National Grid for students and teachers at Big Bang Fair 2023</p>
     </div>
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/scicom2-aeoud.jpg" alt="Nicole presenting at An Evening of Unnecessary Detail" />
+        <img src="{{ site.baseurl }}/assets/images/scicom2-aeoud.jpg" alt="Nicole presenting at An Evening of Unnecessary Detail"/>
         <p>Performing for casual adult audiences at An Evening of Unnecessary Detail in May 2024</p>
     </div>
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/scicom3-ri.jpg" alt="Creators at a Huddle event in 2024" />
+        <img src="{{ site.baseurl }}/assets/images/scicom3-ri.jpg" alt="Creators at a Huddle event in 2024"/>
         <p>Demonstrating for KS1-3 as a Royal Institution Science in Schools Presenter </p>
     </div>
 </div>

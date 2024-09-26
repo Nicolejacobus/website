@@ -14,15 +14,15 @@ Both Nicole and Jack Knife are available for public speaking and performance eng
 
 <div class="threeimages">
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/perf4-ien.jpg" alt="Nicole speaking about Claude Cahun" />
+        <img src="{{ site.baseurl }}/assets/images/perf4-ien.jpg" alt="Nicole speaking about Claude Cahun"/>
         <p>Hosting workshops and networking sessions with the <a href="https://immersiveexperience.network/">Immersive Experience Network</a></p>
     </div>
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/perf2-limmud.jpg" alt="Nicole speaking at a fundraising drive" />
+        <img src="{{ site.baseurl }}/assets/images/perf2-limmud.jpg" alt="Nicole speaking at a fundraising drive"/>
         <p>Speaking on behalf of charitable organisations such as <a href="https://limmud.org/">Limmud</a> in fundraising drives</p>
     </div>
     <div class="image-item">
-        <img src="{{ site.baseurl }}/assets/images/perf3-jk.jpg" alt="Jack Knife performing at Camp Cabaret" />
+        <img src="{{ site.baseurl }}/assets/images/perf3-jk.jpg" alt="Jack Knife performing at Camp Cabaret"/>
         <p>Performing in cabaret shows as drag king Jack Knife</p>
     </div>
 </div>

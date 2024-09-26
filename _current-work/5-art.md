@@ -5,13 +5,34 @@ layout: work
 permalink: /current-work/printmaking/
 ---
 
-Summary incl hyperlinks to relevant websites
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/image-grid.css">
 
-No  photos because Ben doesn't like them
-![A pretty watercolour of a mid-century-modern blue chair]({{site.baseurl}}/assets/images/chair.jpg)
 
-<img src="{{site.baseurl}}/assets/images/chair.jpg" style="max-width: 20vw;">
 
 Credits & credentials
 
 Relevant qualifications
+
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/art-found.jpg" alt="Image 1">
+    <figcaption>Caption for Image 1</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/art-speciesbw.jpg" alt="Image 2">
+    <figcaption>Caption for Image 2</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/art-birds.jpg" alt="Image 3">
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
+   <figure>
+    <img src="{{ site.baseurl }}/assets/images/art-angels.jpg" alt="Image 3">
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
+   <figure>
+    <img src="{{ site.baseurl }}/assets/images/art-burning.jpg" alt="Image 3">
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
+  <!-- Add more figures as needed -->
+</div>

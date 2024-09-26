@@ -14,6 +14,13 @@ body {
     font-size: larger;
 }
 
+/* Media query for mobile devices (screens smaller than 768px) */
+@media only screen and (max-width: 768px) {
+    body {
+      font-size: medium; /* Smaller font size for mobile devices */
+    }
+  }
+
 /* Body bold text */
 strong, b {
     font-weight: 500; /* Set lighter weight for bold text in the body */
@@ -39,6 +46,15 @@ a:hover {
     background-color: #f9b08f;
 }
 
+/* Lazy-loaded image fade-in effect */
+.lazy-loaded {
+    opacity: 0;
+    transition: opacity 0.2s ease-in;
+  }
+  
+  .lazy-loaded.show {
+    opacity: 1;
+  }
 
 /* Nav bar */
 nav {
@@ -63,6 +79,7 @@ main {
     max-width: 90vw;
     margin: auto;
     padding-bottom: 10vh;
+    text-align: left;
 }
 
 @media screen and (min-width: 1000px) {
@@ -81,3 +98,10 @@ main {
     background-color: #f9b08f;
 }
 
+
+/* If needed, override any mobile-specific alignment */
+@media only screen and (max-width: 1000px) {
+    body, h1, h2, h3, h4, h5, h6, p {
+        text-align: left; /* Ensure left alignment on mobile too */
+    }
+}
