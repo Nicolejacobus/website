@@ -24,7 +24,7 @@ layout: home
 
     Outside of work, you can find me learning aerial silks, volunteering with community organisations, or solving cryptic crosswords.<br><br>
 
-<a href="mailto:hinicole@jacobus.org">Get in touch</a> to find out more about my work or to get me involved in your projects. I'm always open to discussing new opportunities.
+<a href="mailto:nicole@jacobus.org">Get in touch</a> to find out more about my work or to get me involved in your projects. I'm always open to discussing new opportunities.
   </div>
 </div>
 
