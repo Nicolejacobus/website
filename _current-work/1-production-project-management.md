@@ -41,10 +41,9 @@ As a freelance project manager, I have worked on a variety of exciting live even
 <b><a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/" target="_blank">An Evening of Unnecessary Detail</a></b> - <i>Event Manager & Showrunner</i>, Cockpit Theatre, February 2024 - present<br>
 <b><a href="https://www.youtube.com/watch?v=LIg-6glbLkU" target="_blank">Pi-by-hand calculation</a></b> - <i>Project Manager</i>, City of London School, February 2024<br>
 <b><a href="https://www.foxandbadge.com/" target="_blank">Fox & Badge</a></b> - <i>Stage Manager</i>, The Steelyard, December 2023<br>
-<b>Only Murders in the Building, Season 2 and 3 PR Launches</b> - <i>Production Assistant</i><br>
-<b>Arkham Asylum</b> - <i>Production Assistant</i> - H1 2023<br>
-<b>Humble Pi, live comedy special filming</b> - <i>Project Manager</i>, Bloomsbury Theatre, April 2022<br>
-<b>Burning Nest</b> - <i>Logistics Co-ordinator</i>, Ugbrooke House, May 2021
+<b><a href="https://entourage.live/case-study/only-murders-in-the-building" target="_blank">Only Murders in the Building, Season 2 and 3 PR Launches</a></b> - <i>Production Assistant</i>, London, August 2022-2023<br>
+<b><a href="https://www.imdb.com/title/tt34869872/" target="_blank">Humble Pi, live comedy special filming</a></b> - <i>Project Manager</i>, Bloomsbury Theatre, April 2022<br>
+<b><a href="https://burningnest.co.uk/" target="_blank">Burning Nest</a></b> - <i>Logistics Co-ordinator</i>, Ugbrooke House, May 2021
 
 
 <h4>Qualifications</h4>
