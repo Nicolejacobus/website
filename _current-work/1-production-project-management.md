@@ -20,26 +20,28 @@ As a freelance project manager, I have worked on a variety of exciting live even
 <div class="threeimages">
     <div class="image-item">
         <img src="{{ site.baseurl }}/assets/images/prod1-bc.jpg" alt="Photo of the set of Bridge Command" />
-        <p><a href="https://bridgecommand.space/">Bridge Command</a> - Managed design phase and full venue fit-out with services, scenic and technical elements</p>
+        <p><a href="https://bridgecommand.space/" target="_blank">Bridge Command</a> - Managed design phase and full venue fit-out with services, scenic and technical elements</p>
     </div>
     <div class="image-item">
         <img src="{{ site.baseurl }}/assets/images/prod3-pi.jpg" alt="Overhead shot of the pi-by-hand calculation" />
-        <p><a href="https://www.youtube.com/watch?v=LIg-6glbLkU">Pi-by-hand calculation</a> - Co-ordinated 300-person volunteer event for a week-long mathematical record attempt</p>
+        <p><a href="https://www.youtube.com/watch?v=LIg-6glbLkU" target="_blank">Pi-by-hand calculation</a> - Co-ordinated 300-person volunteer event for a week-long mathematical record attempt</p>
     </div>
     <div class="image-item">
         <img src="{{ site.baseurl }}/assets/images/prod2-wwf.jpg" alt="Photo of the entrance to the Waitrose Winter Festival" />
-        <p><a href="https://entourage.live/case-study/waitrose-winter-food-drink-festival/">Waitrose Winter Festival</a> - Production and logistics for annual brand festival bringing in 8,000+ customers for a weekend of festive cheer</p>
+        <p><a href="https://entourage.live/case-study/waitrose-winter-food-drink-festival/" target="_blank">Waitrose Winter Festival</a> - Production and logistics for annual brand festival bringing in 8,000+ customers for a weekend of festive cheer</p>
     </div>
 </div>
 
 <h2>Credits and credentials</h2>
 
-<b><a href="https://cbeebiesrainbowadventure.com/london/">Cbeebies Rainbow Adventure</a></b> - <i>Production Manager</i>, Westfield London, opened July 2024<br>
-<b>Bridge Command</b> - <i>Production Manager</i>, Vauxhall, opened April 2024<br>
-<b>An Evening of Unnecessary Detail</b> - <i>Event Manager & Showrunner</i>, Cockpit Theatre, February 2024 - present<br>
-<b>Pi-by-hand Calculation</b> - <i>Project Manager</i>, City of London School, February 2024<br>
-<b>Fox & Badge</b> - <i>Stage Manager</i>, The Steelyard, December 2023<br>
-<b>Waitrose Winter Festival</b> - <i>Production Manager</i>, Tobacco Dock, November 2023<br>
+<b><a href="https://waitrosefestivals.com/" target="_blank">Waitrose Winter Festival</a></b> - <i>Production Manager</i>, Tobacco Dock, November 2024<br>
+<b><a href="https://immersiveexperience.network/huddle-events/live-immersive-experience-summit-24/" target="_blank">IEN Summit 25</a></b> - <i>Event Manager</i>, Woolwich Works, October 2024<br>
+<b><a href="https://cbeebiesrainbowadventure.com/london/" target="_blank">Cbeebies Rainbow Adventure</a></b> - <i>Production Manager</i>, Westfield London, opened July 2024<br>
+<b><a href="https://bridgecommand.space/" target="_blank">Bridge Command</a></b> - <i>Production Manager</i>, Vauxhall, opened April 2024<br>
+<b><a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/" target="_blank">An Evening of Unnecessary Detail</a></b> - <i>Event Manager & Showrunner</i>, Cockpit Theatre, February 2024 - present<br>
+<b><a href="https://www.youtube.com/watch?v=LIg-6glbLkU" target="_blank">Pi-by-hand calculation</a></b> - <i>Project Manager</i>, City of London School, February 2024<br>
+<b><a href="https://www.foxandbadge.com/" target="_blank">Fox & Badge</a></b> - <i>Stage Manager</i>, The Steelyard, December 2023<br>
+<b><a href="https://waitrosefestivals.com/" target="_blank">Waitrose Winter Festival</a></b> - <i>Production Manager</i>, Tobacco Dock, November 2023<br>
 <b>Only Murders in the Building, Season 3 PR Launch</b> - <i>Production Assistant</i>, Garden Cinema, August 2023<br>
 <b>Arkham Asylum</b> - <i>Production Assistant</i> - H1 2023<br>
 <b>Waitrose Winter Festival</b> - <i>Production Assistant</i>, Tobacco Dock, November 2022<br>
