@@ -34,7 +34,7 @@ As a freelance project manager, I have worked on a variety of exciting live even
 
 <h2>Credits and credentials</h2>
 
-<b>Cbeebies Rainbow Adventure</b> - <i>Production Manager</i>, Westfield London, opened July 2024<br>
+<b><a href="https://cbeebiesrainbowadventure.com/london/">Cbeebies Rainbow Adventure</a></b> - <i>Production Manager</i>, Westfield London, opened July 2024<br>
 <b>Bridge Command</b> - <i>Production Manager</i>, Vauxhall, opened April 2024<br>
 <b>An Evening of Unnecessary Detail</b> - <i>Event Manager & Showrunner</i>, Cockpit Theatre, February 2024 - present<br>
 <b>Pi-by-hand Calculation</b> - <i>Project Manager</i>, City of London School, February 2024<br>
