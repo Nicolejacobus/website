@@ -15,7 +15,9 @@ I am also the producer for <a href="https://www.youtube.com/@standupmaths">Stand
 
 My role includes co-ordinating multiple video release timelines, as well as associated collaborations, sponsorships, product releases and live events. I also manage the channel's Patreon page and audience relationships.
 
-As a freelance project manager, I have worked on a variety of exciting live events, including currently as Event Manager for <a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/">An Evening of Unnecessary Detail</a>, and previously as Stage Manager for <a href="https://www.foxandbadge.com/">Fox & Badge</a> and Logistics Co-ordinator for <a href="https://www.burningnest.co.uk/">Burning Nest</a>.
+As a freelance project manager, I have worked on a variety of exciting live events, including currently as Event Manager for <a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/">An Evening of Unnecessary Detail</a>, and previously as Stage Manager for <a href="https://www.foxandbadge.com/">Fox & Badge</a>.
+
+I have also used my experience in voluntary roles as Site Manager for <a href="https://limmud.org/">Limmud Festival</a>, Logistics Coordinator for <a href="https://www.burningnest.co.uk/">Burning Nest</a>, and as a <a href="https://rangers.burningman.org/">Black Rock City Ranger</a>.
 
 <div class="threeimages">
     <div class="image-item">
