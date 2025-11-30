@@ -6,14 +6,14 @@ permalink: /current-work/production-and-project-management/
 ---
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/threeimages.css">
 
-I work with <a href="https://entourage.live/" target=”_blank”>Entourage</a> as a production manager, providing creative solutions primarily in the immersive sector as well as for brand and PR events. On a given project, I oversee the full timeline from sourcing a venue to opening: feasibility and logistical planning, budgeting, design phase management, meeting creative goals with practical solutions, and managing onsite work including builds, de-rigs and live events.
+I work with <a href="https://entourage.live/" target="_blank">Entourage</a> as a production manager, providing creative solutions primarily in the immersive sector as well as for brand and PR events. On a given project, I oversee the full timeline from sourcing a venue to opening: feasibility and logistical planning, budgeting, design phase management, meeting creative goals with practical solutions, and managing onsite work including builds, de-rigs and live events.
 
 
-I am also the producer for <a href="https://www.youtube.com/@standupmaths" target=”_blank”>Stand-Up Maths</a>, a maths communication YouTube channel with over 1.2M subscribers. My role includes co-ordinating multiple video release timelines, as well as associated collaborations, sponsorships, product releases and live events. I also manage the channel's Patreon page and audience relationships.
+I am also the producer for <a href="https://www.youtube.com/@standupmaths" target="_blank">Stand-Up Maths</a>, a maths communication YouTube channel with over 1.2M subscribers. My role includes co-ordinating multiple video release timelines, as well as associated collaborations, sponsorships, product releases and live events. I also manage the channel's Patreon page and audience relationships.
 
-As a freelance project manager, I have worked on a variety of exciting live events, including currently as Event Manager for <a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/" target=”_blank”>An Evening of Unnecessary Detail</a>, and previously as Stage Manager for <a href="https://www.foxandbadge.com/" target=”_blank”>Fox & Badge</a>.
+As a freelance project manager, I have worked on a variety of exciting live events, including currently as Event Manager for <a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/" target="_blank">An Evening of Unnecessary Detail</a>, and previously as Stage Manager for <a href="https://www.foxandbadge.com/" target="_blank">Fox & Badge</a>.
 
-I have also used my experience in voluntary roles as Site Manager for <a href="https://limmud.org/" target=”_blank”>Limmud Festival</a>, Logistics Coordinator for <a href="https://www.burningnest.co.uk/" target=”_blank”>Burning Nest</a>, and as a <a href="https://rangers.burningman.org/" target=”_blank”>Black Rock City Ranger</a>.
+I have also used my experience in voluntary roles as Site Manager for <a href="https://limmud.org/" target="_blank">Limmud Festival</a>, Logistics Coordinator for <a href="https://www.burningnest.co.uk/" target="_blank">Burning Nest</a>, and as a <a href="https://rangers.burningman.org/" target="_blank">Black Rock City Ranger</a>.
 
 <div class="threeimages">
     <div class="image-item">
