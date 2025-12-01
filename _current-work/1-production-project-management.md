@@ -32,8 +32,11 @@ I have also used my experience in voluntary roles as Site Manager for <a href="h
 
 <h2>Credits and credentials</h2>
 
-<b><a href="https://waitrosefestivals.com/" target="_blank">Waitrose Winter Festival</a></b> - <i>Production Manager</i>, Tobacco Dock, November 2022-2024<br>
-<b><a href="https://immersiveexperience.network/huddle-events/live-immersive-experience-summit-24/" target="_blank">IEN Summit 25</a></b> - <i>Event Manager</i>, Woolwich Works, October 2024<br>
+<b><a href="https://waitrosefestivals.com/" target="_blank">Waitrose Winter Festival</a></b> - <i>Production Manager</i>, Tobacco Dock, November 2022-2025<br>
+<b><a href="https://beggars49.com/" target="_blank">Beggars Banquet: 7&7 is 49</a></b> - <i>Production Manager</i>, Old Billingsgate, September 2025<br>
+<b><a href="https://spyscape.com/" target="_blank">Spyscape London</a></b> - <i>Production Manager</i>, Covent Garden, opened June 2025<br>
+<b><a href="https://www.redbull.com/gb-en/events/instalock" target="_blank">Red Bull Instalock</a></b> - <i>Production Manager</i>, Red Bull Gaming Sphere, May 2025<br>
+<b><a href="https://immersiveexperience.network/huddle-events/live-immersive-experience-summit-24/" target="_blank">IEN Summit'24</a></b> - <i>Event Manager</i>, Woolwich Works, October 2024<br>
 <b><a href="https://cbeebiesrainbowadventure.com/london/" target="_blank">Cbeebies Rainbow Adventure</a></b> - <i>Production Manager</i>, Westfield London, opened July 2024<br>
 <b><a href="https://bridgecommand.space/" target="_blank">Bridge Command</a></b> - <i>Production Manager</i>, Vauxhall, opened April 2024<br>
 <b><a href="https://festivalofthespokennerd.com/show/an-evening-of-unnecessary-detail/" target="_blank">An Evening of Unnecessary Detail</a></b> - <i>Event Manager & Showrunner</i>, Cockpit Theatre, February 2024 - present<br>
